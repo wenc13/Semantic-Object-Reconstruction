@@ -17,5 +17,3 @@ Optional:
 - Kinect SDK (2.0 and above)
 - Prime sense SDK
 
-Some semantic reconstruction results:
-![Chair](DepthSensingLabel/SR_Chair.png)
