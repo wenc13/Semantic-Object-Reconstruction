@@ -18,4 +18,4 @@ Optional:
 - Prime sense SDK
 
 Some semantic reconstruction results:
-![Image text](https://github.com/wenc13/Semantic-Object-ReconstructionproductShow/DepthSensingLabel/SR_Chair.png)
+![Image text](https://github.com/wenc13/Semantic-Object-Reconstruction/tree/master/DepthSensingLabel/SR_Chair.png)
