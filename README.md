@@ -16,3 +16,6 @@ Requirements:
 Optional:
 - Kinect SDK (2.0 and above)
 - Prime sense SDK
+
+Some semantic reconstruction results:
+![Image text](https://github.com/wenc13/Semantic-Object-ReconstructionproductShow/DepthSensingLabel/SR_Chair.png)
