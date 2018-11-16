@@ -21,8 +21,7 @@ Input:
 
 Some semantic reconstruction results:
 
-<div align="center">
-  
+<div align="left">
 <img src="DepthSensingLabel/SR_Chair.png" height="187" width="187" >
 <img src="DepthSensingLabel/SR_Table.png" height="187" width="187" >
 <img src="DepthSensingLabel/SR_Motorcycle.png" height="187" width="219" >
