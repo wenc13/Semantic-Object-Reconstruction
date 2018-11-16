@@ -17,8 +17,13 @@ Optional:
 - Kinect SDK (2.0 and above)
 - Prime sense SDK
 
+Input:  
+
 Some semantic reconstruction results:
 
-![](DepthSensingLabel/SR_Chair.png)
-![](DepthSensingLabel/SR_Table.png)
-![](DepthSensingLabel/SR_Motorcycle.png)
+<div align="center">
+  
+<img src="DepthSensingLabel/SR_Chair.png" height="187" width="187" >
+<img src="DepthSensingLabel/SR_Table.png" height="187" width="187" >
+<img src="DepthSensingLabel/SR_Motorcycle.png" height="187" width="219" >
+ </div>
