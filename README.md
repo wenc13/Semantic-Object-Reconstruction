@@ -1,11 +1,8 @@
 # Semantic Object Reconstruction
-This is the official implementation of paper: **Semantic Object Reconstruction via Casual Handheld Scanning**
+It is the official implementation of paper **''Semantic Object Reconstruction via Casual Handheld Scanning''**.
 
-### Contact:
-cheng.wen.bts@gmail.com
-
-### Installation:
-The code was developed by VS2015 on Windows 10.
+## Installation:
+The code was developed by Microsoft Visual Studio 2015 on Windows 10.
 
 **Requirements**:
 - DirectX SDK June 2010
@@ -17,22 +14,22 @@ The code was developed by VS2015 on Windows 10.
 - Kinect SDK (2.0 and above)
 - Prime sense SDK
 
-### Input: 
+## Input: 
 ```
 |--parent
       |--depth
       |--rgb
       |--label
 ```
-images are organized as follows:
-depthimage.png
-colorimage.jpg
-labelpart1.png
-labelpart2.png
-...
-labelpartn.png
+images are organized as follows:  
+depthimage.png  
+colorimage.jpg  
+labelpart1.png  
+labelpart2.png  
+...  
+labelpartn.png  
 
-### Some semantic reconstruction results:
+## Some semantic reconstruction results:
 
 <div align="left">
 <img src="DepthSensingLabel/SR_Chair.png" height="187" width="187" >
@@ -40,7 +37,10 @@ labelpartn.png
 <img src="DepthSensingLabel/SR_Motorcycle.png" height="187" width="219" >
  </div>
 
-### Citation
+## Contact:
+cheng.wen.bts@gmail.com
+
+## Citation
 If you find our work useful in your research, please consider citing:
 ```
 @article{hu2018semantic,
