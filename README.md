@@ -1,5 +1,5 @@
 # Semantic Object Reconstruction
-It is the official implementation of paper **''Semantic Object Reconstruction via Casual Handheld Scanning''**.
+It is the official implementation of paper **''[Semantic Object Reconstruction via Casual Handheld Scanning](https://dl.acm.org/doi/10.1145/3272127.3275024)''**.
 
 ## Installation:
 The code was developed by Microsoft Visual Studio 2015 on Windows 10.
