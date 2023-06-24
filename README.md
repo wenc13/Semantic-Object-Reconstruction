@@ -1,19 +1,19 @@
 # Semantic Object Reconstruction
-This is the source code of paper: Semantic Object Reconstruction via Casual Handheld Scanning
+This is the official implementation of paper: **Semantic Object Reconstruction via Casual Handheld Scanning**
 
 ### Contact:
 cheng.wen.bts@gmail.com
 
 ### Installation:
-The code was developed on VS2015.
+The code was developed by VS2015 on Windows 10.
 
-### Requirements:
+**Requirements**:
 - DirectX SDK June 2010
 - Kinect SDK (prev. to 2.0)
 - NVIDIA CUDA 8.0 (for the CUDA implementation)
 - PCL-1.8.0
 
-### Optional:
+**Optional**:
 - Kinect SDK (2.0 and above)
 - Prime sense SDK
 
