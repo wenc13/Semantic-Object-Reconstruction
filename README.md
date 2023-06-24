@@ -2,7 +2,7 @@
 This is the source code of paper: Semantic Object Reconstruction via Casual Handheld Scanning
 
 CONTACT (feel free to contact me):
-cheng.wen.bupthu@gmail.com
+cheng.wen.bts@gmail.com
 
 Installation:
 The code was developed on VS2015.
