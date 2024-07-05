@@ -51,4 +51,4 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## License
-Our code is released under MIT License (see LICENSE file for details).
+The code is released under MIT License (see LICENSE file for details).
