@@ -15,19 +15,14 @@ The code was developed by Microsoft Visual Studio 2015 on Windows 10.
 - Prime sense SDK
 
 ## Input: 
+Our method takes RGB images, depth images, and part label images as input, and produces a reconstructed semantic model as output. In our paper, we conducted experiments using the [redwood dataset](http://redwood-data.org/3dscan/). This dataset contains only RGB-D scans; the labels can be obtained using any pre-trained neural network. The images are organized as follows:  
+
 ```
-|--parent
-      |--depth
-      |--rgb
-      |--label
+|--parent folder
+      |--depth (*.png)
+      |--rgb (*.jpg)
+      |--label (*.png)
 ```
-images are organized as follows:  
-depthimage.png  
-colorimage.jpg  
-labelpart1.png  
-labelpart2.png  
-...  
-labelpartn.png  
 
 ## Some semantic reconstruction results:
 
@@ -38,7 +33,7 @@ labelpartn.png
  </div>
 
 ## Contact:
-cheng.wen.bts@gmail.com
+If you have any question, please feel free to contact me (cheng.wen.bts@gmail.com).
 
 ## Citation
 If you find our work useful in your research, please consider citing:
@@ -54,3 +49,6 @@ If you find our work useful in your research, please consider citing:
   publisher={ACM New York, NY, USA}
 }
 ```
+
+## License
+Our code is released under MIT License (see LICENSE file for details).
